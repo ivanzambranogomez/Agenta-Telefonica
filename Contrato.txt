@@ -1,0 +1,54 @@
+Contrato de Licencia
+
+
+El software Agenda Telefónica y la documentación que lo acompaña son gratis.
+Mediante éste documento, usted obtiene una licencia por parte de
+Iván Zambrano Gómez para usar esta copia bajo las siguientes condiciones:
+
+  
+1. El software Agenda Telefónica debe ser distribuido sin costo alguno,
+   no debe ser vendido ni alquilado.
+         
+2. El software Agenda Telefónica debe ser presentado en su forma completa.
+   No se permite la distribución del programa y su documentación 
+   por separado.
+
+3. El software y la documentación que lo acompaña, no deben ser 
+   ser enmendados ni alterados de ninguna forma.
+
+4. Iván Zambrano Gómez no acepta ninguna responsabilidad en caso de que el programa
+   no funcione correctamente o simplemente no funcione.
+
+5. Iván Zambrano Gómez no podrá ser responsabilizado por ninguna clase de daños ni
+   pérdidas causadas por el borrado de datos, ocasionado directa o
+   indirectamente por el uso del software Agenda Telefónica.
+        
+6. Iván Zambrano Gómez no podrá ser responsabilizado por ninguna pérdida o reclamo por
+   parte de terceros que pudiera tener lugar a causa del uso del software Agenda Telefónica.
+       
+7. El usar el software Agenda Telefónica, significa que usted está de acuerdo con estas condiciones.
+
+8. Cualquier otro uso, distribución o representación del software Agenda Telefónica
+   sin el permiso del autor del software se encuentra explícitamente prohibido.
+
+9. Iván Zambrano Gómez se reserva el derecho de revisar el software y los materiales
+   escritos, y de hacer cambios en cualquier momento en los contenidos
+   sin obligación de notificar a persona o ente alguno.
+
+10. Desmontado: Usted no podrá utilizar técnicas de ingeniería inversa, descompilar ni     desensamblar este SOFTWARE según la legislación colombiana.
+
+
+   COPYRIGHT
+
+   El software Agenda Telefónica se encuentra protegido por las leyes y tratados internacionales
+   de derechos de autor.  Cualquier tipo de reproducción o distribución no autorizada
+   de este software, o cualquier parte del mismo puede constituir una severa falta
+   civil y penal.
+
+
+   Para mayor información escriba al e-mail:
+  
+   ivan.zambranogomez@gmail.com
+
+
+   Agenda Telefónica 2010

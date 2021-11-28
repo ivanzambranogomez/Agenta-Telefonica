@@ -1,0 +1,1 @@
+msgbox "El programa ha sido instalado satisfactoriamente",VBOKONLY,"Instalación"
